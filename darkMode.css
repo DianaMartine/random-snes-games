@@ -1,0 +1,20 @@
+body {
+    background-color: #000;
+    color: #fff;
+    transition: all 0.3s ease-in-out;
+}
+
+#btn-random {
+    background-color: #fff;
+    color: #000;
+}
+
+#btn-random:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+.btn-theme-toggle {
+    background-color: #fff;
+    color: #000;
+}
